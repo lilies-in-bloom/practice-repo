@@ -16,11 +16,11 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Bread
+- _Bread_
 
-- Dragon Ball Z
+- _Dragon Ball Z_
 
-- Hello Kitty <https://www.floridapoly.edu>
+- _Hello Kitty_ <https://www.floridapoly.edu>
 
 ***
 
