@@ -1,14 +1,14 @@
-## First Name Last Name
+## Iliana Ayala
 
-### Term Year 
+### 2022 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to data sceince
 
-- Course 2
+- Python for data analytics
 
-- Course 3
+- Calculus 1
 
 - Course 4
 
@@ -16,12 +16,12 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Thing 1
+- Bread
 
-- Thing 2
+- Dragon Ball Z
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Hello Kitty <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/09/09
